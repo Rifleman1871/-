@@ -275,3 +275,4 @@ if (false) {
     cc.macro.CLEANUP_IMAGE_CACHE = true;
     window.boot();
 }
+~ $ git clone https://github.com/Rifleman1871/Rifleman1871.github.io
