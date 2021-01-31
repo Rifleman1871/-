@@ -275,5 +275,3 @@ if (false) {
     cc.macro.CLEANUP_IMAGE_CACHE = true;
     window.boot();
 }
-
-~ $ git clone https://github.com/rifleman/rifleman.github.io
